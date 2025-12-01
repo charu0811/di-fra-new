@@ -1,6 +1,13 @@
-
 streamlit
 pandas
 numpy
 plotly
 openpyxl
+scikit-learn
+statsmodels
+arch
+pmdarima
+scipy
+matplotlib
+reportlab
+seaborn
